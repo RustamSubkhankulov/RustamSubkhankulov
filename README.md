@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT"  alt="GIT" width="30" height="30"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/322/656/png-transparent-x86-64-64-bit-computing-central-processing-unit-computer-icons-hardware-computer-text-rectangle-logo.png" title="X86"  alt="X86" width="30" height="30"/>&nbsp;
 </div>
 
 ---
