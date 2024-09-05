@@ -1,4 +1,4 @@
-### MIPT DREC 3rd year student 👨‍🎓
+### MIPT DREC 4rd year student 👨‍🎓
 ---
 
 #### My contacts 📬: 
